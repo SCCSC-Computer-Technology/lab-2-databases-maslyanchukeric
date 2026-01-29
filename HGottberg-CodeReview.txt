@@ -1,0 +1,23 @@
+Heinrich Gottberg Code Review of Eric Maslyanchuk Lab 2
+
+Is the code generally readable and well-documented?
+
+	Yes, the code is well organized and very legible. I can tell what's going on in every block.
+	Your numbers were formatted which is a plus.
+
+Did you find any software defects?
+
+	No, the program ran as expected. The labels however, weren't cleared on load so they still say
+	label1. This is a quick fix though.
+
+What was one way that their solution differed from yours?
+
+	You included separate buttons to add to the database, while I just used the built in controls
+	that are part of importing a database.
+
+Do you have any other constructive comments for the author?
+
+	I think making the database bigger would be nice so the user can see more.
+
+This code is very clean! It was super easy to tell what everything did and wasn't hard to find anything. All the requirements were met. Good job.
+
