@@ -1,0 +1,11 @@
+Code Review of Eric Maslyanchuk Lab 2
+
+Nicholas Chapman-Miller
+
+	Code compiles clean without any errors/warnings. Code is clean and readable. Documentation is great, very thorough comments!
+	
+	Program crashes when you click the add city button twice without data entered into the new table row. It gives a System.Data.NoNullAllowedException on line 77, because the city column is null if no data is entered. This can be fixed by checking if data has been entered with an if statement. No other issues besides that small bug.
+	
+	One thing you did different was outputting the math results to labels, instead of messageboxes which is what I did. I like the way you did it because it prevents the user from having to click too many dialog boxes which can be annoying. I also did not format my numbers correctly, which you did by using tostring("N0"). I will format it correctly like that in the future. Great program!! One tiny thing I would change is to make the labels on the form default to "" so they don't say label1.
+
+	
